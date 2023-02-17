@@ -803,6 +803,18 @@ video {
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
+.from-gray-200 {
+  --tw-gradient-from: #e5e7eb;
+  --tw-gradient-to: rgb(229 231 235 / 0);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
+
+.from-gray-300 {
+  --tw-gradient-from: #d1d5db;
+  --tw-gradient-to: rgb(209 213 219 / 0);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
+
 .to-blue-500 {
   --tw-gradient-to: #3b82f6;
 }
